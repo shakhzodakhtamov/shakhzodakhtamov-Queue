@@ -25,9 +25,9 @@ import java.util.Queue;
  * Notice that ArrayDeque implements multiple interfaces, including Queue!
  *
  * PriorityQueue is another implementation of Queue that has additional functionality
- * to handle multiple 'priorities' of items. You can read about PriorityQueue here:
- * https://www.geeksforgeeks.org/priority-queue-class-in-java/
+ * to handle multiple 'priorities' of items.
  */
+
 public class Lab {
     /**
      * Instantiate and return some type of Deque, which is a class that contains Queue and Stack functionality.
